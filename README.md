@@ -10,7 +10,6 @@
 
 
 
-Antes de empezar la materia te recomiendo que mires mi blog sobre vim para que puedas instalar y configurar a tu gusto el editor para hacer las practicas. Tambien dejo links de los teoricos
 
 
 
