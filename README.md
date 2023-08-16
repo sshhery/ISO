@@ -3,7 +3,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1700&pause=800&color=28CDF7&center=true&width=863&lines=Introducción a Sistemas Operativos"/>
+
  </div>
 
 </div>
@@ -14,6 +14,7 @@ Antes de empezar la materia te recomiendo que mires mi blog sobre vim para que p
 
 
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 - [Blog de Vim](https://mith-arg.github.io/EI-Materias/2022-10-04-vim/)
 - [Teoria](/Documentos/Teoria.md)
